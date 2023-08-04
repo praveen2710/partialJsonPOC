@@ -11,4 +11,5 @@ import java.util.List;
 public class GifResponse {
     List<GTIN14> demand;
     boolean isPaginated;
+    String uuid;
 }

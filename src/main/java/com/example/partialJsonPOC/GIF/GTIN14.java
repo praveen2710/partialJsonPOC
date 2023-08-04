@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Getter
 public class GTIN14 {
-
     private String GTIN14;
     private int qty;
 }
